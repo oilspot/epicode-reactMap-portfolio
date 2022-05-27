@@ -30,7 +30,7 @@ export default class Map extends React.Component {
           }}
           width="100%"
           viewOptions={{
-            center: { latitude: 60.17121588111992, longitude: 24.942716285187476 },
+            center: { latitude: 30, longitude: 40 },
             mapTypeId: "road",
             zoom: 1,
           }}
