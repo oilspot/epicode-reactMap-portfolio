@@ -11,3 +11,9 @@ To run the project, you shall type:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+#### Screenshots
+
+<img src="readme-src/01.png"><br>
+
+
+
