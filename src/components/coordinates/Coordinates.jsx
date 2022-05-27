@@ -2,10 +2,15 @@ import React from "react";
 import Pin from "../pin/Pin";
 //import { pushPins } from "../map/Map";
 import Map from "../map/Map";
-import { pinArabia } from "../map/Map";
-import { pinRautatientori } from "../map/Map";
+import { pinHelsinki } from "../map/Map";
+import { pinRome } from "../map/Map";
+import { pinDubai } from "../map/Map";
+import { pinNewYork } from "../map/Map";
+import { pinDakar } from "../map/Map";
+import { pinTokyo } from "../map/Map";
 
-export const pushPins = [pinArabia, pinRautatientori];
+
+export const pushPins = [pinHelsinki, pinRome, pinDubai, pinNewYork, pinDakar, pinTokyo];
 
 export default class Coordinates extends React.Component {
     constructor (props) {
