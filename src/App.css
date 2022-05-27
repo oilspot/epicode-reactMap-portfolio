@@ -1,0 +1,14 @@
+@import url('/node_modules/bootstrap/dist/css/bootstrap.css');
+
+.App {
+  text-align: center;
+}
+
+body {
+  color: black;
+  background-color: white;
+}
+
+h1 {
+  color: red;
+}
